@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #000000;
+    color: #fff;
+}
+
+textarea {
+    background-color: #444444;
+}
+
+.center {
+    position: fixed;
+    bottom: 25%;
+    right: 39%;
+}
+
+#particles-js {
+    height: 100%;
+}
